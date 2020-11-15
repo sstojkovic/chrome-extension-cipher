@@ -1,0 +1,15 @@
+{
+  "name": "Cipher",
+  "version": "1.0",
+  "description": "Extension that allows user to encode/decode selected text",
+  "background": {
+    "page": "main.html"
+  },
+  "icons": {
+    "16": "assets/logo16.png",
+    "48": "assets/logo48.png",
+    "128": "assets/logo128.png"
+  },
+  "permissions": ["http://*/", "https://*/", "contextMenus"],
+  "manifest_version": 2
+}
